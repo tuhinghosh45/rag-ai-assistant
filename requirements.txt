@@ -1,0 +1,60 @@
+# Core LLM + Environment
+openai
+mistralai
+python-dotenv
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Embeddings + Transformers
+sentence-transformers
+transformers
+torch
+
+# Document Loaders
+pypdf
+unstructured
+python-docx
+
+# RAG Utilities
+tiktoken
+faiss-cpu
+
+# API / Backend
+fastapi
+uvicorn
+
+# Data Handling
+pandas
+numpy
+
+# Optional UI
+streamlit
+
+# Utilities
+requests
+httpx
+aiohttp
+
+# Hugging Face Core
+huggingface_hub
+transformers
+tokenizers
+
+
+# PyTorch Backend
+torch
+
+# LangChain Hugging Face Integration
+langchain-huggingface
+
+# Optional Utilities
+accelerate
+safetensors

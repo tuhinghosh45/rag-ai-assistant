@@ -1,0 +1,11 @@
+from dotenv import load_dotenv
+
+load_dotenv()
+
+from langchain.chat_models import init_chat_model
+
+model = init_chat_model("mistral-small-latest")
+
+result = model.invoke("Hello")
+
+print(result.content)
